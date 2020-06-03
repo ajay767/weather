@@ -43,7 +43,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(../media/weather-bg.jpg);
+    background: url(weather-bg.jpg);
     background-position: center;
     background-size: cover;
 
